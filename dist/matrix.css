@@ -1,0 +1,20 @@
+.matrixCell {
+  width: 50px;
+  height: 55px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  border-radius: 4px;
+  border-color: black;
+  border-width: 1px; }
+
+.matGUI {
+  padding-left: 10px;
+  padding-top: 10px;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-radius: 20px; }
+
+.matContainer {
+  margin-left: 20px;
+  margin-top: 10px; }
